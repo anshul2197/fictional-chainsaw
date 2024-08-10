@@ -19,3 +19,9 @@ Exploratory Data Analysis: Provide a descriptive analysis of the various attribu
 Data Visualization: Create visualizations to illustrate the sales trends, distribution of sales across different categories, and any notable correlations. Develop at least one interactive dashboard in Power BI or any similar tool showcasing key sales performance metrics with filters for different dimensions (e.g., time period, region, product).
 Predictive Modelling: Build a predictive model to forecast next quarter sales based on the provided data. You can use linear regression, time series forecasting, or any other suitable modelling technique. Evaluate the model's performance and discuss any assumptions or limitations.
 Insight and Recommendation Report: Based on your analysis, draft a report summarizing your findings and insights. Provide strategic recommendations for the sales and marketing teams to improve software sales. Discuss how data analytics can be further integrated into the decision-making process to enhance business outcomes.
+
+**
+A Jupyter Notebook or an R Markdown file containing all the analytical steps and code used in your analysis. - Synthetic_Sales_Data_final.ipynb
+A link to the interactive dashboard(s). - Software Sales Visualisation Part 1.pbix & Software Sales Visualisation Part 2.pbix
+A PDF report summarizing findings, insights, and recommendations, including any relevant visualizations.- Insight & Recommendation Report.pdf
+**
